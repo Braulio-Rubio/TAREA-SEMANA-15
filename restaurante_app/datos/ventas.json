@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "usuario_id": 1,
+        "usuario_nombre": "Braulio Rubio",
+        "producto_id": 1,
+        "producto_nombre": "Hamburguesa Andina",
+        "precio": 4.5,
+        "fecha": "2026-09-27 20:03:38"
+    },
+    {
+        "id": 2,
+        "usuario_id": 2,
+        "usuario_nombre": "Gabriela Robinson",
+        "producto_id": 4,
+        "producto_nombre": "Café Americano",
+        "precio": 1.25,
+        "fecha": "2026-09-27 20:08:00"
+    },
+    {
+        "id": 3,
+        "usuario_id": 3,
+        "usuario_nombre": "Emily Salazar",
+        "producto_id": 3,
+        "producto_nombre": "Jugo de Mora",
+        "precio": 1.5,
+        "fecha": "2026-09-27 20:08:07"
+    }
+]

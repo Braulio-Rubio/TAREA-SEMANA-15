@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nombre": "Braulio Rubio",
+        "usuario": "braulio",
+        "password": "1234",
+        "rol": "Administrador"
+    },
+    {
+        "id": 2,
+        "nombre": "Gabriela Robinson",
+        "usuario": "gabriela",
+        "password": "1234",
+        "rol": "Vendedor"
+    },
+    {
+        "id": 3,
+        "nombre": "Emily Salazar",
+        "usuario": "emily",
+        "password": "1234",
+        "rol": "Vendedor"
+    }
+]

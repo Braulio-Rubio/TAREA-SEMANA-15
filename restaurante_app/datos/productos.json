@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nombre": "Hamburguesa Andina",
+        "precio": 4.50,
+        "categoria": "Comida"
+    },
+    {
+        "id": 2,
+        "nombre": "Locro de Papas",
+        "precio": 3.50,
+        "categoria": "Comida"
+    },
+    {
+        "id": 3,
+        "nombre": "Jugo de Mora",
+        "precio": 1.50,
+        "categoria": "Bebida"
+    },
+    {
+        "id": 4,
+        "nombre": "Café Americano",
+        "precio": 1.25,
+        "categoria": "Bebida"
+    },
+    {
+        "id": 5,
+        "nombre": "Cheesecake",
+        "precio": 3.00,
+        "categoria": "Postre"
+    }
+]
